@@ -8,7 +8,7 @@ function App() {
     date: '1 Вересня 2025',
     title: 'Практична №3',
     authorAvatar: './assets/images/avatar_male.png',
-    author: "Papizhuk David",
+    author: "Hryhorenko Danylo",
   };
 
   return (
